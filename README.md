@@ -10,3 +10,12 @@ It involves:
 - Packaging the application and its dependencies
 - Making it runnable using Docker
 - This is done primarily by creating a Dockerfile.
+
+
+### 1. Dockerizing an application (the process)
+- This is the preparation phase:
+- Writing a Dockerfile
+- Choosing a base image
+- Installing dependencies
+- Copying application files
+- Defining how the app starts
