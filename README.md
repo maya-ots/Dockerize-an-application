@@ -19,3 +19,6 @@ It involves:
 - Installing dependencies
 - Copying application files
 - Defining how the app starts
+### 2. Creating a Docker image (the result)
+A Docker image is the packaged result of dockerizing your application.
+You start it using: docker run my-app
