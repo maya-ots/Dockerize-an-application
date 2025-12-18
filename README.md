@@ -28,4 +28,3 @@ The image is:
 - Shareable (e.g., via Docker Hub)
 
 
-i haven't done anything yet
