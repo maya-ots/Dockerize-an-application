@@ -26,3 +26,6 @@ The image is:
 - Immutable
 - Reusable
 - Shareable (e.g., via Docker Hub)
+
+
+i haven't done anything yet i'm tired
